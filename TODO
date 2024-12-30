@@ -1,0 +1,1 @@
+clang编译不过，需要到x86文件的windows/kit下把mt.exe加到path路径下才行，错误原因：--mt=""
